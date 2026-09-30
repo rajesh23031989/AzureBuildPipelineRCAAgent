@@ -1,0 +1,11 @@
+{
+  "id": 12345,
+  "buildNumber": "2026.09.29.1",
+  "status": "completed",
+  "result": "failed",
+  "definition": {
+    "name": "ASP.NET Core CI"
+  },
+  "sourceBranch": "refs/heads/main",
+  "sourceVersion": "abcdef123"
+}
